@@ -17,7 +17,7 @@ Desenvolvimento de uma solução em formato de aplicativo com o objetivo de indi
 O usuário do aplicativo poderá listar todos os produtos que deseja doar e escolher quais deles serão destinados a uma ONG específica, que entrará em contato posteriormente para a retirada dos produtos. O DoeCerto tem como objetivo facilitar e incentivar a doação de produtos em bom estado para as organizações sem fins lucrativos que prestam assistência a pessoas em situação de vulnerabilidade social, além de estimular a prática da reciclagem e a preservação do meio ambiente.
 
 
-#### :file_folder:Link do Projeto no Figma: [Acesseo o projeto no figma](https://www.figma.com/proto/gdmWc9ybDEm8Q5nEKGGzEM/Projeto-de-PI---Doe-Certo?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+#### :file_folder:Link do Projeto no Figma: [Acesse o projeto no figma](https://www.figma.com/proto/gdmWc9ybDEm8Q5nEKGGzEM/Projeto-de-PI---Doe-Certo?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 #### Link para visualização da apresentação visual: [Video de Apresentação do Projeto DoeCerto](https://drive.google.com/file/d/1pU3GDfi58ebUmm8eckCsXUTd-p6Ip4si/view?usp=sharing)
 
